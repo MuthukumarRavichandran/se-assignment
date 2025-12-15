@@ -1,4 +1,4 @@
-#  vehicle repair plan management
+#  Vehicle repair plan management
 
 This project provides a Plan → Procedure → User assignment workflow using ASP.NET Core, EF Core, and a React frontend.
 It supports creating plans, adding procedures, assigning multiple users to each procedure, and reliably retrieving grouped data for UI display.
